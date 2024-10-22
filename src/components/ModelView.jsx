@@ -2,7 +2,7 @@
 // import React, { Suspense } from 'react'
 // import * as THREE from 'three'
 // import Lights from './Lights'
-// import Iphone from './Iphone'
+// import Iphone from './Iphone.jsx'
 // import { div } from 'three/webgpu'
 // import Loader from './Loader'
 
